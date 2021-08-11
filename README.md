@@ -1,4 +1,6 @@
-## Olá! Eu sou a Lacerda Junior 
+## Olá! Seja bem-vindo ao meu GitHub.
+Sou um profissional de TI e apaixonado por tecnologias. Alguns de meus conhecimento: C#, Delphi, SQL, NodeJs, React, JS, etc. Sempre aprendendo novas linguagens.
+
  <div>
   <a href="https://github.com/jralima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jralima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
